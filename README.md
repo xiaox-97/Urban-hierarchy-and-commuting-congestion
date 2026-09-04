@@ -1,1 +1,2 @@
 # Urban-hierarchy-congestion-sustainable-mobility
+The “notebooks” folder primarily contains Python code for identifying urban hierarchy structures, constructing multimodal transportation networks, and calibrating parameters for mode choice models. The “R” folder primarily contains R code for calculating origin-destination (OD) travel times, traffic assignment, simulating employment redistribution scenarios, and conducting OD reduction and substitution experiments.
